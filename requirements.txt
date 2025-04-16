@@ -1,3 +1,4 @@
 streamlit
-torchaudio
-git+https://github.com/facebookresearch/audiocraft.git
+torchaudio==2.2.1
+torch==2.2.1
+git+https://github.com/facebookresearch/audiocraft.git/audiocraft.git
