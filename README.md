@@ -120,8 +120,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🤝 Contributing
 
-[Add contribution guidelines if applicable]
+Contributions are welcome! If you want to add examples or improve the documentation:
 
-## 📧 Contact
-
-[Add your contact information if desired]
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-branch).
+3. Make your changes and commit them (git commit -m 'Add new feature').
+4. Push to the branch (git push origin feature-branch).
+5. Open a pull request.
